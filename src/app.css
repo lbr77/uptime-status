@@ -9,7 +9,7 @@
 }
 
 body {
-  background: #F6F8FA url(./assets/background.png) center top;
+  background: #F6F8FA url(https://api.btstu.cn/sjbz/api.php?lx=dongman&format=images&method=pc) center top;
   color: #3F4347;
   font-size: 12px;
   font-family: sans-serif;
