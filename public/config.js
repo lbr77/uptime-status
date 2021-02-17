@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.stevelbr.top /'
+      url: 'https://status.stevelbr.top/'
     },
     {
       text: 'SSL',
