@@ -2,7 +2,7 @@ import dayjs from 'dayjs';
 import Axios from 'axios';
 import { fixed } from './helper';
 
-const Api = 'https://uptimerobot-api.stevelbr.top/v2/getMonitors';
+const Api = 'https://uapi.stevelbr.ga/v2/getMonitors';
 
 export const GetMonitors = async (apikey, days) => {
 
